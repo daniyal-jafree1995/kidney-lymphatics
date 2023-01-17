@@ -1,7 +1,7 @@
 ## scRNA-seq analysis of human kidney lymphatic vasculature for Jafree et al. 2023
 ## Merged dataset derived from multiple scRNA-seq studies of human kidney (see Methods for details)
 ## Authors: Daniyal Jafree (University College London), Dr Benjamin Stewart (University of Cambridge)
-## Version 2: 07/01/2023 - for submission to Cell Reports Medicine
+## Version 2: 07/01/2023 - for submission to JCI
 
 #----------------------------------------------------------------------------------------------------------------#
 
